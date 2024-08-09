@@ -1,6 +1,6 @@
 # Exploit Title: Stored Cross-Site Scripting (XSS) - Automad 2.0.0-alpha.4
 # Date: 20-06-2024
-# CVE: N/A (Awaiting ID to be assigned)
+# CVE: CVE-2024-40111 [Reserved](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-40111)
 # EDB-ID: [52056](https://www.exploit-db.com/exploits/52056)
 # Exploit Author: Jerry Thomas (w3bn00b3r)
 # Vendor Homepage: https://automad.org
